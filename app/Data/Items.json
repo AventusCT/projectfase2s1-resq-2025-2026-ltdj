@@ -1,0 +1,10 @@
+[
+    { "id": 1, "name": "Laptop Computer", "row": 1, "column": 3, "category": "Electronics", "description": "Dell XPS 13" },
+    { "id": 2, "name": "Office Chair", "row": 2, "column": 1, "category": "Furniture", "description": "Ergonomic desk chair" },
+    { "id": 3, "name": "Printer Paper", "row": 1, "column": 5, "category": "Supplies", "description": "A4 white paper, 500 sheets" },
+    { "id": 4, "name": "Coffee Machine", "row": 3, "column": 2, "category": "Appliances", "description": "Nespresso machine" },
+    { "id": 5, "name": "Bluetooth Speaker", "row": 2, "column": 4, "category": "Electronics", "description": "Portable speaker" },
+    { "id": 6, "name": "Filing Cabinet", "row": 4, "column": 1, "category": "Furniture", "description": "4-drawer metal cabinet" },
+    { "id": 7, "name": "Whiteboard Markers", "row": 1, "column": 2, "category": "Supplies", "description": "Set of 12 colored markers" },
+    { "id": 8, "name": "Desk Lamp", "row": 3, "column": 5, "category": "Lighting", "description": "LED adjustable lamp" }
+]
